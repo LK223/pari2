@@ -49,6 +49,8 @@ body {
     padding-left: 100px;
     padding-right: 100px;
     animation: link 4.5s 1;
+    text-decoration: none;
+    color: rgb(151, 2, 189);
 
 }
 .text2{
